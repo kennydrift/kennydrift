@@ -31,4 +31,4 @@ I Make games, bots, and cool projects with Python, Unity, and more.
 - **AI powered discord bot** - Yeah, pretty simple to understand, connected a AI to discord
 - **AI powered IRL bot** - On the theme of AI, this was very confusing to make, holy moly. So I connected gpt to a system that would read its messages out loud, like a text to speech voice. Then I connected it to a lego motor, was pretty fun.
 
-<img src="war-osaka.png" width="35" height="25"><br>
+<img src="war-osaka.png" width="100" height="60"><br>
