@@ -31,4 +31,12 @@ I Make games, bots, and cool projects with Python, Unity, and more.
 - **AI powered discord bot** - Yeah, pretty simple to understand, connected a AI to discord
 - **AI powered IRL bot** - On the theme of AI, this was very confusing to make, holy moly. So I connected gpt to a system that would read its messages out loud, like a text to speech voice. Then I connected it to a lego motor, was pretty fun.
 
+## Languages I code in
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <img src="war-osaka.png" width="100" height="60"><br>
