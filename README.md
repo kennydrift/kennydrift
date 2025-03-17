@@ -40,3 +40,4 @@ I Make games, bots, and cool projects with Python, Unity, and more.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <img src="war-osaka.png" width="100" height="60"><br>
+[?](https://kennydrift.github.io)
