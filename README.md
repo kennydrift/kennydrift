@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# kennydrift (me :D)
+# kennydrift
 
-**Game Developer | Programmer | Website Builder**  
-I Make games, bots, and cool projects with Python, Unity, and more.    
-
-## Ongoing Projects  
-- **Tski** – A Discord bot with a bunch of features.. New
-- **MOONVEIL** – A novel I am currentling writing :O  
-- **Reaper's Verdict** – A indie game where you decide if people live or die  
-- **Minecraft mods** – I made so much I lost count, mostly API based mods
+I am vob  
 
 ## Languages I code in
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
