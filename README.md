@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I am vob  
 <img src="war-osaka.png" width="140" height="100"><br>
-[.]([https://kennydrift.github.io/thewatch/](https://clever.jansenmedical.net/games/terraria/index.html))
+[this](https://clever.jansenmedical.net/games/terraria/index.html)
